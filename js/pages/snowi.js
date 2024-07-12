@@ -33,16 +33,9 @@ window.onload = function()
         change("tf2 redirect", "href","https://en.wikipedia.org/wiki/Team_Fortress_2");
         change("he redirect", "href","https://store.steampowered.com/app/485900/Hardware_Engineers/");
         change("pcbs redirect", "href","https://store.steampowered.com/app/621060/PC_Building_Simulator/");
-        // change("antifur redirect", "onclick",redirect("https://en.wikifur.com/wiki/Anti-furries")); //https://en.wikifur.com/wiki/Anti-furries
-        // change("zoo redirect", "onclick", redirect("https://en.wikipedia.org/wiki/Zoophilia")); // "https://en.wikipedia.org/wiki/Zoophilia"
         
         change("tf2 google drive", "href","https://drive.google.com/drive/folders/1E2Ok-QroC-TVK35oLRF44J4QhtnxBSgO?usp=drive_link");
         change("music google drive", "href","https://drive.google.com/drive/folders/11bAlOS_Vj__dashdD2hVp2pKe3r83ZcK?usp=drive_link");
         change("public silly", "href","https://drive.google.com/drive/folders/10h01s6WtAstQHH2dbXyKOK0c4LICbMzG?usp=drive_link");
-
-
-        // change("aroace redirect", "href","https://en.wikipedia.org/wiki/Aromanticism");
-        // change("aroace redirect", "href","https://en.wikipedia.org/wiki/Aromanticism");
-        // change("aroace redirect", "href","https://en.wikipedia.org/wiki/Aromanticism");
     }
 }
