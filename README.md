@@ -9,7 +9,7 @@ This repo is the code behind my GitHub Pages site where I share:
 - **Digital Art** 🎨
 - **Coding Projects** 💻
 - **Random Shenanigans** 🌟
-- **P A I N  A N D  S U F F E R I N G . . .**
+- **P  A  I  N   A  N  D   S  U  F  F  E  R  I  N  G  .  .  .**
 
 Feel free to explore, enjoy, and maybe even contribute to the fun!
 
