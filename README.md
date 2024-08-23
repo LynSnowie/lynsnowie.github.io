@@ -1,6 +1,6 @@
-# Lyn Marie Snow's GitHub Page! ☃️
+# Snow's GitHub Page! ☃️
 
-Welcome to my magical corner of the internet! This repo hosts **lynsnowie.github.io**, the home page of **Lyn Marie Snow** (that's me, but you can call me **Snowie** or any other nickname!).
+Welcome to my magical corner of the internet! This repo hosts **lynsnowie.github.io**, the home page of **Lyn Snow** (that's me, but you can call me **Snowy** or any other nickname!).
 
 ## What's This About? 🤔
 
@@ -14,4 +14,4 @@ This repo is the code behind my GitHub Pages site where I share:
 Feel free to explore, enjoy, and maybe even contribute to the fun!
 
 Stay frosty,  
-**Lyn Marie Snow** ❄️
+**Lyn Snow** ❄️
